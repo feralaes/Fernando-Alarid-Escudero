@@ -1,3 +1,4 @@
+I am a PhD candidate at University of Minnesota School of Public Health
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/feralaes/Fernando-Alarid-Escudero/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
