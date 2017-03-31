@@ -1,4 +1,6 @@
-I am a PhD candidate at University of Minnesota School of Public Health
+I am a PhD candidate at University of Minnesota School of Public Health.
+
+[Follow @feralaes](https://twitter.com/feralaes)
 
 ## Welcome to GitHub Pages
 
