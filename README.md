@@ -1,4 +1,4 @@
-I am a PhD candidate in Decision Sciences at the University of Minnesota [School of Public Health](http://www.sph.umn.edu).
+I am a PhD candidate in Health Decision Sciences at the University of Minnesota [School of Public Health](http://www.sph.umn.edu).
 
 [Download CV](https://drive.google.com/file/d/0B-m7NmDTNbtsZkwtMUxvaWFQaXc/edit?usp=sharing)
 
