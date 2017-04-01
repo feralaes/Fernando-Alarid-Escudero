@@ -4,4 +4,5 @@ I am a PhD candidate in Decision Sciences at the University of Minnesota [School
 
 [Follow @feralaes](https://twitter.com/feralaes)
 
+# Publications
 [PUBMED publications](http://www.ncbi.nlm.nih.gov/pubmed/?term=Alarid-Escudero+F)
