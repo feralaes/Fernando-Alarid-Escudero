@@ -1,4 +1,4 @@
-I am a Post-Doctoral Associate in Health Decision Sciences at the University of Minnesota [School of Public Health](http://www.sph.umn.edu) [Division of Health Policy and Management](http://www.sph.umn.edu/academics/divisions/hpm/).
+I am an Assistant Professor at the [Center for Research and Teaching in Economics (CIDE) Región Centro](https://www.cide.edu/nosotros/comunidad/profesores/perfil/?id=277) in the [Drug Policy Program (PPD)](http://www.politicadedrogas.org/PPD/index.php/index.html)
 
 [Download CV](https://drive.google.com/file/d/0B-m7NmDTNbtsZkwtMUxvaWFQaXc/edit?usp=sharing)
 
