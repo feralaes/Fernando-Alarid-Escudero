@@ -4,7 +4,12 @@ tagline: It's all about the consequences
 description: It's all about the consequences
 markdown: kramdown
 layout: sidebar
-
+author :
+  name : Fernando Alarid-Escudero
+  email : fernando.alarid@cide.edu
+  github : feralaes
+  twitter : feralaes
+  
 defaults:
   -
     scope:
